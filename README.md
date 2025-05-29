@@ -55,6 +55,16 @@ The ui_form.py file must be generated using Qt Designer and pyside6-uic if it's 
 
 pyside6-uic form.ui -o ui_form.py
 
+
+
+![oooooooooo](https://github.com/user-attachments/assets/de8205a7-e4ae-4acb-9547-5026a373267a)
+
+
+
+
+
+
+
 Results are stored in sonuclar.txt in the root directory for persistence.
 
 
