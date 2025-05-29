@@ -55,13 +55,18 @@ The ui_form.py file must be generated using Qt Designer and pyside6-uic if it's 
 
 pyside6-uic form.ui -o ui_form.py
 
+Screenshots
 
-## Screenshots
-![Image](https://github.com/user-attachments/assets/04e9f0b6-1cba-4e36-b691-af91fb60d47c)
+## 🖼️ Uygulama Ekran Görüntüleri
 
+### 1. Kullanıcı Adı Giriş Ekranı
+![Giriş Ekranı](images/screenshot1.PNG)
 
+### 2. Başla ve Uyarı Ekranı
+![Uyarı Ekranı](images/screenshot3.PNG)
 
-
+### 3. Test Sonuç Ekranı
+![Sonuç Ekranı](images/screenshot2.PNG)
 
 
 
