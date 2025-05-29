@@ -55,6 +55,11 @@ The ui_form.py file must be generated using Qt Designer and pyside6-uic if it's 
 
 pyside6-uic form.ui -o ui_form.py
 
+Screenshots
+
+![sema ](reflex-test/blob/main/screenshot1.PNG)
+
+
 
 
 
