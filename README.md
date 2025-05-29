@@ -57,17 +57,9 @@ pyside6-uic form.ui -o ui_form.py
 
 Screenshots
 
-## 🖼️ Uygulama Ekran Görüntüleri
-
-### 1. Kullanıcı Adı Giriş Ekranı
-![Giriş Ekranı](images/screenshot1.PNG)
-
-### 2. Başla ve Uyarı Ekranı
-![Başla Ekranı](images/screenshot3.PNG)
-
-### 3. Test Sonuç Ekranı
-![Sonuç Ekranı](images/screenshot2.PNG)
-
+https://github.com/semanur-tech/reflex-test/blob/main/images/screenshot1.PNG
+https://github.com/semanur-tech/reflex-test/blob/main/images/screenshot2.PNG
+https://github.com/semanur-tech/reflex-test/blob/main/images/screenshot3.PNG
 
 
 
