@@ -56,8 +56,18 @@ The ui_form.py file must be generated using Qt Designer and pyside6-uic if it's 
 pyside6-uic form.ui -o ui_form.py
 
 
+## Screenshots
 
-![oooooooooo](https://github.com/user-attachments/assets/de8205a7-e4ae-4acb-9547-5026a373267a)
+### 👤 Name Input Screen
+![Name Input Screen](screenshot1.PNG)
+
+### 🟢 Reaction Test Screen
+![Reaction Test Screen](screenshot2.PNG)
+
+
+![Name Input Screen](screenshot3.PNG)
+
+
 
 
 
