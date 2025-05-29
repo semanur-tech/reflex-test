@@ -63,10 +63,11 @@ Screenshots
 ![Giriş Ekranı](images/screenshot1.PNG)
 
 ### 2. Başla ve Uyarı Ekranı
-![Uyarı Ekranı](images/screenshot3.PNG)
+![Başla Ekranı](images/screenshot3.PNG)
 
 ### 3. Test Sonuç Ekranı
 ![Sonuç Ekranı](images/screenshot2.PNG)
+
 
 
 
