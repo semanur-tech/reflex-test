@@ -57,7 +57,7 @@ pyside6-uic form.ui -o ui_form.py
 
 Screenshots
 
-![sema ](reflex-test/blob/main/screenshot1.PNG)
+![sema ](screenshot1.PNG)
 
 
 
