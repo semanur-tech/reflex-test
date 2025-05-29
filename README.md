@@ -58,15 +58,8 @@ pyside6-uic form.ui -o ui_form.py
 
 ## Screenshots
 
-### 👤 Name Input Screen
-![Name Input Screen](screenshot1.PNG)
 
-### 🟢 Reaction Test Screen
-![Reaction Test Screen](screenshot2.PNG)
-
-
-![Name Input Screen](screenshot3.PNG)
-
+![Image](https://github.com/user-attachments/assets/04e9f0b6-1cba-4e36-b691-af91fb60d47c)
 
 
 
