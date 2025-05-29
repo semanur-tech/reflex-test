@@ -57,8 +57,16 @@ pyside6-uic form.ui -o ui_form.py
 
 Screenshots
 
-![sema ](screenshot1.PNG)
+## 🖼️ Uygulama Ekran Görüntüleri
 
+### 1. Kullanıcı Adı Giriş Ekranı
+![Giriş Ekranı](images/screenshot1.PNG)
+
+### 2. Başla ve Uyarı Ekranı
+![Uyarı Ekranı](images/screenshot3.PNG)
+
+### 3. Test Sonuç Ekranı
+![Sonuç Ekranı](images/screenshot2.PNG)
 
 
 
